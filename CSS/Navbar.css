@@ -1,0 +1,22 @@
+.navbar {
+    height: 80px;
+    width: 100%;
+    background-color: white;
+    position: fixed;
+}
+.logo {
+    margin-top: 5px;
+    margin-left: 1%;
+    margin-right: 4%;
+    width: 192px;
+    height: 68.45px;
+    float: left;
+}
+.navbarButton {
+    font-size: 20.8px;
+    float: left;
+    font-family: "Candara";
+    color:gray;
+    margin: 19.2px;
+    text-decoration: none;
+}
