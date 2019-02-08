@@ -1,0 +1,39 @@
+body{
+    font-family: "Candara", serif;
+    color:#4a4a4b;
+    font-weight: lighter;
+    text-align: center;
+}
+.bannerHome{
+        width: 100%;
+        height: 425px;
+}
+.serviceHome{
+    border: solid 1px #7c7c7d;
+    box-shadow: 1px 5px 8px #4a4a4b;
+    margin: 48px;
+    background-color: white;
+    width: 29%;
+    font-size: 8px;
+    float: left;
+}
+.serviceHome h1{
+    font-size: 4em;
+}
+.serviceHome h2{
+    font-size: 2.05em;
+}
+.serviceCardHome{
+    height: 400px;
+    background-color:white;
+    padding-left: 16px;
+}
+.serviceImageHome{
+    width: 100%;
+}
+.text1Home{
+    font-size: 17.6; 
+}
+.text1Home h1{
+    font-size: 30.4px;
+}

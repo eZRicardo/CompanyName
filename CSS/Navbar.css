@@ -1,7 +1,11 @@
+body{
+    margin: 0px;
+    font-family: "Candara", serif;
+}
 .navbar {
     height: 80px;
     width: 100%;
-    background-color: white;
+    background-color: aliceblue;
     position: fixed;
 }
 .logo {
@@ -15,7 +19,6 @@
 .navbarButton {
     font-size: 20.8px;
     float: left;
-    font-family: "Candara";
     color:gray;
     margin: 19.2px;
     text-decoration: none;
