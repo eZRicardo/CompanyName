@@ -8,32 +8,81 @@ body{
         width: 100%;
         height: 425px;
 }
+.text1Home h1{
+    font-size: 30.4px;
+}
+.text1Home{
+    font-size: 17.6; 
+}
+.serviceCardHome{
+    height: 400px;
+    background-color:white;
+}
 .serviceHome{
     border: solid 1px #7c7c7d;
     box-shadow: 1px 5px 8px #4a4a4b;
     margin: 48px;
     background-color: white;
-    width: 29%;
+    width: 26%;
     font-size: 8px;
     float: left;
+    box-sizing: border-box;
 }
 .serviceHome h1{
     font-size: 4em;
+    font-weight: lighter;
 }
 .serviceHome h2{
     font-size: 2.05em;
-}
-.serviceCardHome{
-    height: 400px;
-    background-color:white;
-    padding-left: 16px;
+    font-weight: lighter;
 }
 .serviceImageHome{
     width: 100%;
 }
-.text1Home{
-    font-size: 17.6; 
+.bannerContactHome{
+    width: 100%;
+    height: 350px;
+    background-color: rgba(30, 33, 54, 0.911);
 }
-.text1Home h1{
-    font-size: 30.4px;
+.bannerContactHomeImg{
+    width: 100%;
+    height: 100%;
+    background-image: url("../imagens/serv.jpg");
+    background-position: center;
+}
+.bannerContactTitle{
+    text-align: center;
+    float: left;
+    width: 100%;
+    font-size: 32px;
+    color: white;
+    margin-top: 3%;
+}
+.bannerContactText{
+    text-align: center;
+    float: left;
+    width: 100%;
+    font-size: 32px;
+    color: #5dd9c0;
+    margin-top: 2%;
+}
+.phoneNumber{
+    text-align: center;
+    float: left;
+    width: 100%;
+    font-size: 32px;
+    color: #cec075;
+    margin-top: 2%;
+}
+.contactButton{
+    background-color: #5dd9c0;
+    border-radius: 15px;
+    font-size: 25.6px;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-top: 2%;
+    box-sizing: border-box;
 }

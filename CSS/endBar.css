@@ -1,0 +1,14 @@
+body{
+    margin: 0px;
+    font-family: "Candara", serif;
+}
+.endBar {
+    height: 20px;
+    width: 100%;
+    text-align: center;
+    position: fixed;
+    cursor: pointer;
+    bottom: 0px;
+    background-color: #1e2136;
+    color: white;
+}
