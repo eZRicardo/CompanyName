@@ -1,0 +1,31 @@
+body{
+
+}
+.boxContact{
+
+}
+.contactButton{
+    background-color: #5dd9c0;
+    border-radius: 15px;
+    font-size: 25.6px;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-top: 1%;
+    box-sizing: border-box;
+}
+.contactButton:hover{
+
+    background-color: #98e6d6;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 32px;
+    padding-right: 32px;
+    cursor: pointer;
+
+  }
+.meeting{
+
+}
