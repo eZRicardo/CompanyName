@@ -64,7 +64,7 @@ body{
     width: 100%;
     font-size: 32px;
     color: white;
-    margin-top: 3%;
+    margin-top: 2%;
 }
 .bannerContactText{
     text-align: center;
@@ -96,12 +96,12 @@ body{
 }
 .contactButton:hover{
 
+    background-color: #98e6d6;
     padding-top: 12px;
     padding-bottom: 12px;
     padding-left: 32px;
     padding-right: 32px;
     cursor: pointer;
-    background-color: #98e6d6;
 
   }
 
