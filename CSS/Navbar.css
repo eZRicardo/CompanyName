@@ -8,6 +8,12 @@ body{
     background-color: #f8f9fa;
     position: fixed;
 }
+.navbar a{
+    transition: 0.5s;
+}
+ .navbar a :hover{
+    color: black;
+    }
 .logo {
     margin-top: 5px;
     margin-left: 1%;
