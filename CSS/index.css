@@ -52,7 +52,6 @@ body{
 }
 .bannerContactTitle{
     text-align: center;
-    float: left;
     width: 100%;
     font-size: 32px;
     color: white;
@@ -64,7 +63,7 @@ body{
     width: 100%;
     font-size: 32px;
     color: #5dd9c0;
-    margin-top: 2%;
+    margin-top: 1%;
 }
 .phoneNumber{
     text-align: center;
@@ -72,7 +71,7 @@ body{
     width: 100%;
     font-size: 32px;
     color: #cec075;
-    margin-top: 2%;
+    margin-top: 1%;
 }
 .contactButton{
     background-color: #5dd9c0;
@@ -83,13 +82,17 @@ body{
     padding-bottom: 10px;
     padding-left: 30px;
     padding-right: 30px;
-    margin-top: 2%;
+    margin-top: 1%;
     box-sizing: border-box;
 }
 
 .boxTextEnd{
+    margin-top: 3%;
     height: 300px;
     width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
 }
 .boxTextEnd h1{
     display: block;
@@ -100,10 +103,12 @@ body{
     font-size: 17.6px;
 }
 .video{
-   width:560;
-   height:315;
+    width: 35%;
+    height: 300px;
+
 }
-.flex{
+.flexText{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
+    width: 47%;
 }
