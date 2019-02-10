@@ -1,28 +1,51 @@
 body{
     font-family: "Candara";
     color: black;
+    font-weight: lighter;
+    margin: 0px;
 }
 .serviceBox{
+    margin: 0px;
     height: 1500px;
     display: block;
 }
 .serviceBoxLine{
     width: 100%;
     height: 20%;
+    margin-top: 3%;
     display: flex;
     justify-content: space-around;
-    margin-top: 3%;
 }
 .serviceCard{
     border: solid 1px black;
     box-shadow: 1px 5px 8px #4a4a4b;
     background-color: white;
+    height: 60%;
     width: 38%;
     height: 100%;
     font-size: 0.5em;
     margin-top: 12%;
 }
 .imgCard{
-    width: 30%;
+    height: 80%;
+    width: 45%;
     margin: 2%;
+}
+.textCard{
+    font-size: 2.1em;
+    color: #4a4a4b;
+    float: right;
+    width: 45%;
+    text-align: justify;
+    margin-right: 5%;
+}
+.titleCard{
+    font-size: 3em;
+    color: #4a4a4b;
+    text-align: center;
+}
+.alignImg{
+    display: flex;
+    flex-direction: row;
+    
 }
