@@ -93,6 +93,8 @@ body{
     padding-right: 30px;
     margin-top: 1%;
     box-sizing: border-box;
+    border-color: 0px #5dd9c0;
+    border-width: 0px;
 }
 .contactButton:hover{
 
