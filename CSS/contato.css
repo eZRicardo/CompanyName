@@ -8,18 +8,15 @@ body{
     height: 800px;
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    margin-left: 3%;
 }
 .contactButton{
     background-color: #5dd9c0;
-    border-radius: 15px;
-    font-size: 25.6px;
-    color: white;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 30px;
-    padding-right: 30px;
-    box-sizing: border-box;
+    border-radius: 6px;
+    border-color: 0px #5dd9c0;
+    font-size: 1em;
+    padding: 3%;
+}
 }
 .contactButton:hover{
 
@@ -52,7 +49,7 @@ body{
 }
 .map{
     width: 30%;
-    height: 90%;
+    height: 40%;
 }
 .contact{
     width: 25%;
