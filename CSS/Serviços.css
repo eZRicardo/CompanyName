@@ -12,9 +12,9 @@ body{
 .serviceBoxLine{
     width: 100%;
     height: 20%;
-    margin-top: 3%;
     display: flex;
     justify-content: space-around;
+    margin-top: 3%;
 }
 .serviceCard{
     border: solid 1px black;
